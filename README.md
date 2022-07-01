@@ -1,10 +1,8 @@
-#  This is todo app  
+#  This is ToDo TaskList Web Application.  
 
+## [Live Link](https://todo-tasklist-webapp.netlify.app/)
 
 ## [Server Repo](https://github.com/Kader-Goni/Things-todo-app-backend)
-
-
-## [Live Link]()
 
 
 ##  Technology used 
