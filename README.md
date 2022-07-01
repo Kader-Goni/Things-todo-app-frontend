@@ -1,10 +1,10 @@
 #  This is todo app  
 
 
-## [Server Repo](https://github.com/EmtiazHossainE2/task-app-server)
+## [Server Repo](https://github.com/Kader-Goni/Things-todo-app-backend)
 
 
-## [Live Link](https://etodos310.netlify.app/)
+## [Live Link]()
 
 
 ##  Technology used 
